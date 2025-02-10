@@ -1,0 +1,23 @@
+{
+  "name": "editor-diff-track",
+  "version": "1.0.0",
+  "description": "npm package for https://github.com/google/diff-match-patch",
+  "keywords": [
+    "diff",
+    "diff-match-patch",
+    "editor-diff-track",
+    "google-diff-match-patch"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "testit": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
