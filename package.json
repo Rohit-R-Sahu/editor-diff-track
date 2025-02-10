@@ -1,23 +1,28 @@
 {
   "name": "editor-diff-track",
   "version": "1.0.0",
-  "description": "npm package for https://github.com/google/diff-match-patch",
+  "description": "A wrapper around diff-match-patch for text difference tracking",
   "keywords": [
     "diff",
     "diff-match-patch",
     "editor-diff-track",
-    "google-diff-match-patch"
+    "text-diff"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rohit-R-Sahu/editor-diff-track.git"
+  },
+  "author": "Rohit R Sahu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rohit-R-Sahu/editor-diff-track/issues"
+  },
+  "homepage": "https://github.com/Rohit-R-Sahu/editor-diff-track#readme",
   "dependencies": {},
   "devDependencies": {
     "testit": "^3.0.0"
   },
   "scripts": {
     "test": "node test"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "license": "MIT"
+  }
 }

@@ -3,11 +3,10 @@
 A lightweight wrapper around [`diff-match-patch`](https://github.com/google/diff-match-patch), providing enhanced functionality for tracking text differences in editors.
 
 [![NPM version](https://img.shields.io/npm/v/editor-diff-track.svg)](https://www.npmjs.com/package/editor-diff-track)
-[![License](https://img.shields.io/github/license/your-username/editor-diff-track.svg)](./LICENSE)
+[![License](https://img.shields.io/github/license/Rohit-R-Sahu/editor-diff-track.svg)](./LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/Rohit-R-Sahu/editor-diff-track.svg)](https://github.com/Rohit-R-Sahu/editor-diff-track/issues)
 
 ## Installation
-
-Install via npm:
 
 ```sh
 npm install editor-diff-track
@@ -114,6 +113,9 @@ However, it is based on the [`diff-match-patch`](https://github.com/google/diff-
 For more details, see:
 - [`LICENSE`](./LICENSE) (MIT License)
 - [`LICENSE-APACHE`](./LICENSE-APACHE) (Original Apache 2.0 License)
+
+### GitHub Repository: [Rohit-R-Sahu/editor-diff-track](https://github.com/Rohit-R-Sahu/editor-diff-track)
+
 
 **Modifications:**  
 This package serves as a wrapper around `diff-match-patch` with enhancements for easier integration in JavaScript projects.
